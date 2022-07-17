@@ -2,8 +2,8 @@
 - 👀 I’m interested in ... 1337 
 - 🌱 I’m currently learning ... JavaScript 
 - 💞️ I’m looking to collaborate on ... Web dev
-- 📫 How to reach me ... zeptarhi@gmail.com
-Based on 64-bit Public Access UNIX System schema
+- 📫 How to reach me ... 
+Based on Public Access UNIX System schema
 MODERNIZED
 ATTRACTIVE
 HTML 5
